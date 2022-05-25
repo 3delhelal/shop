@@ -1,0 +1,78 @@
+name: shop
+description: A shop app
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  firebase_core: 
+  cloud_firestore: 
+  firebase_auth: 
+  image_picker: 
+  firebase_storage: 
+  flutter_spinkit: 
+  firebase_messaging: 
+  intl:
+  toast: 
+  http:
+  timeago:
+  provider:
+  clipboard:
+  shared_preferences:
+  flutter_svg:
+  permission_handler: 
+  google_fonts: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+  fonts:
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli/Muli.ttf
+        - asset: assets/fonts/muli/Muli-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/muli/Muli-Light.ttf
+          weight: 300
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
